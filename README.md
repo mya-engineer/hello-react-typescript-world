@@ -1,3 +1,13 @@
+# Hello, React-Typescript World!
+
+This is project which contains src code for ToDo App which built with using of Typescript.
+
+## Create templated React project with Typescript included
+
+```
+npx create-react-app my-app --template typescript
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
